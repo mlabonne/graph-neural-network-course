@@ -26,7 +26,7 @@ Maximize the power of the GNN for graph classification on PROTEINS.
 
 ## 👨‍💻 Contact
 
-* Email: <a href="mailto:simonini.thomas.pro@gmail.com">simonini.thomas.pro@gmail.com</a>
+* Email: <a href="mailto:labonne.maxime@gmail.com">labonne.maxime@gmail.com</a>
 * Twitter: <a href="https://twitter.com/maximelabonne">@maximelabonne</a>
 * Medium: https://medium.com/@mlabonne
 * Blog: https://mlabonne.github.io/blog/
