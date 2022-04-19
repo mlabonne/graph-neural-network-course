@@ -1,37 +1,25 @@
 # 🌐 Graph Neural Network Course
 
-## Chapter 1: Introduction to Graph Neural Networks
+<h2>Chapter 1: Introduction to Graph Neural Networks</h2>
 
-What's a GNN?
+What's a GNN? Essentials of graph theory and PyTorch Geometric.
 
-*Task: node classification on Zachary's Karate Club.*
+\> [📝 Blog article](https://mlabonne.github.io/blog/intrognn/)
 
-[📝 Blog article](https://mlabonne.github.io/blog/intrognn/)
+<h2>Chapter 2: Graph Attention Network [![Open In Colab](images/colab.svg)](https://colab.research.google.com/drive/1B0vLpH_gSfrOLgsc2UZVyXrcofzA-t0L?usp=sharing)</h2>
+Implement a GNN with self-attention to classify nodes on CiteSeer.
 
-## Chapter 2: Graph Attention Network
-Graphs + Self-attention = 💖
+\> [📝 Medium article](https://towardsdatascience.com/graph-attention-networks-in-python-975736ac5c0c)
 
-*Task: node classification on CiteSeer*
+<h2>Chapter 3: GraphSAGE [![Open In Colab](images/colab.svg)](https://colab.research.google.com/drive/1udeUfWJzvMlLO7sGUDGsHo8cRPMicajl?usp=sharing)</h2>
+Scale GNNs with mini-batching and the GraphSAGE architecture on PubMed.
 
-[📝 Medium article](https://towardsdatascience.com/graph-attention-networks-in-python-975736ac5c0c)
+\> [📝 Blog article](https://mlabonne.github.io/blog/graphsage/)
 
-[![Open In Colab](images/colab.svg)](https://colab.research.google.com/drive/1B0vLpH_gSfrOLgsc2UZVyXrcofzA-t0L?usp=sharing)
+<h2>Chapter 4: Graph Isomorphism Network</h2>
+Maximize the power of the GNN for graph classification on PROTEINS.
 
-## Chapter 3: GraphSAGE
-Scaling GNNs to graphs with billions of nodes.
-
-*Task: node classification on PubMed*
-
-[📝 Blog article](https://mlabonne.github.io/blog/graphsage/)
-
-[![Open In Colab](images/colab.svg)](https://colab.research.google.com/drive/1udeUfWJzvMlLO7sGUDGsHo8cRPMicajl?usp=sharing)
-
-## Chapter 4: Graph Isomorphism Network
-How do you design the most powerful aggregator?
-
-*Task: graph classification on PROTEINS.*
-
-W.I.P.
+\> W.I.P.
 
 ## 👨‍💻 Contact
 
