@@ -1,5 +1,7 @@
 # 🌐 Graph Neural Network Course
 
+Graph Neural Networks (GNNs) are one of the **most interesting architectures in deep learning**. Because of their **young age**, educational resources are **scarce and more research-oriented**, which can discourage many practitioners. In this course, you'll learn **everything you need to know** from basic architectures to the current **state of the art** with hands-on tutorials.
+
 <h2>Chapter 1: Introduction to Graph Neural Networks</h2>
 
 What's a GNN? Essentials of graph theory and PyTorch Geometric.
@@ -31,4 +33,4 @@ Maximize the power of the GNN for graph classification on PROTEINS.
 * Medium: https://medium.com/@mlabonne
 * Blog: https://mlabonne.github.io/blog/
 
-Please follow me on [Twitter](https://twitter.com/maximelabonne) and [Medium](https://medium.com/@mlabonne)!
+Let's connect on [Twitter](https://twitter.com/maximelabonne) and [Medium](https://medium.com/@mlabonne)!
